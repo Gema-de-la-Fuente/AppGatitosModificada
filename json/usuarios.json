@@ -1,0 +1,188 @@
+{
+  "usuarios": [
+    {
+      "nombre": "Juan",
+      "password": "1234",
+      "id": 2
+    },
+    {
+      "nombre": "Maria",
+      "password": "1234",
+      "id": 3
+    },
+    {
+      "nombre": "Pepa",
+      "password": "1234",
+      "id": 4
+    },
+    {
+      "nombre": "Ana",
+      "password": "1234",
+      "id": 5
+    },
+    {
+      "nombre": "Ruben",
+      "password": "1234",
+      "id": 6
+    }
+  ],
+  "favoritos": [
+    {
+      "url": "http://25.media.tumblr.com/ZabOTt2mpekailt4a6jQnCj7o1_250.jpg",
+      "idUsu": "2",
+      "id": 2
+    },
+    {
+      "url": "http://25.media.tumblr.com/ZabOTt2mpdqo3ne7VV6mNlDj_250.jpg",
+      "idUsu": "2",
+      "id": 3
+    },
+    {
+      "url": "http://27.media.tumblr.com/tumblr_kyqxtgQWsB1qzq8a3o1_250.jpg",
+      "idUsu": "2",
+      "id": 4
+    },
+    {
+      "url": "http://25.media.tumblr.com/ZabOTt2mpifamkwoMzwW7eSgo1_250.png",
+      "idUsu": "2",
+      "id": 5
+    },
+    {
+      "url": "http://25.media.tumblr.com/tumblr_lj5xy5shmp1qg7e2lo1_500.jpg",
+      "idUsu": "2",
+      "id": 6
+    },
+    {
+      "url": "http://25.media.tumblr.com/tumblr_lg1hg6SbBH1qfyzelo1_1280.jpg",
+      "idUsu": "2",
+      "id": 7
+    },
+    {
+      "url": "http://26.media.tumblr.com/ZabOTt2mpdp9d8xlvsSQkzJ8_250.jpg",
+      "idUsu": "2",
+      "id": 8
+    }
+  ],
+  "likes": [
+    {
+      "url": "http://25.media.tumblr.com/ZabOTt2mpke385vwj4PI3Utvo1_250.jpg",
+      "idUsu": "2",
+      "id": 1
+    },
+    {
+      "url": "http://24.media.tumblr.com/tumblr_m78fftMia01qddbvio1_1280.jpg",
+      "idUsu": "2",
+      "id": 2
+    }
+  ],
+  "votos": [
+    {
+      "url": "http://24.media.tumblr.com/ZabOTt2mpeliptgtxfc0kE3Vo1_250.jpg",
+      "idUsu": "2",
+      "puntos": 3,
+      "id": 1
+    },
+    {
+      "url": "http://28.media.tumblr.com/ZabOTt2mpdp9ll0bPYiyByDY_250.jpg",
+      "idUsu": "2",
+      "puntos": 4,
+      "id": 2
+    },
+    {
+      "url": "http://26.media.tumblr.com/ZabOTt2mpdp9d8xlvsSQkzJ8_250.jpg",
+      "idUsu": "2",
+      "puntos": 10,
+      "id": 3
+    },
+    {
+      "url": "http://24.media.tumblr.com/ZabOTt2mpdpa0pvoivwO96Lb_250.jpg",
+      "idUsu": "2",
+      "puntos": 10,
+      "id": 4
+    },
+    {
+      "url": "http://25.media.tumblr.com/tumblr_lt0lyiovpV1r4xjo2o1_250.jpg",
+      "idUsu": "3",
+      "puntos": 8,
+      "id": 5
+    },
+    {
+      "url": "http://26.media.tumblr.com/ZabOTt2mpdp9d8xlvsSQkzJ8_250.jpg",
+      "idUsu": "3",
+      "puntos": 10,
+      "id": 6
+    },
+    {
+      "url": "http://29.media.tumblr.com/ZabOTt2mpdp8kpkbfvE6hWlw_250.jpg",
+      "idUsu": "2",
+      "puntos": 5,
+      "id": 7
+    },
+    {
+      "url": "http://24.media.tumblr.com/tumblr_ltlbxrW5XB1r4xjo2o1_500.gif",
+      "idUsu": "2",
+      "puntos": 7,
+      "id": 8
+    },
+    {
+      "url": "http://25.media.tumblr.com/tumblr_m5qrf0bLhb1qe09kqo1_1280.jpg",
+      "idUsu": "2",
+      "puntos": 4,
+      "id": 9
+    },
+    {
+      "url": "http://24.media.tumblr.com/ZabOTt2mpdpa0pvoivwO96Lb_250.jpg",
+      "idUsu": "3",
+      "puntos": 3,
+      "id": 10
+    },
+    {
+      "url": "http://28.media.tumblr.com/ZabOTt2mpnds677cVz49h9nIo1_250.jpg",
+      "idUsu": "3",
+      "puntos": 7,
+      "id": 11
+    },
+    {
+      "url": "http://24.media.tumblr.com/tumblr_m79uuhwtov1qamljlo1_1280.jpg",
+      "idUsu": "3",
+      "puntos": 4,
+      "id": 12
+    },
+    {
+      "url": "http://25.media.tumblr.com/tumblr_lyy9s1STx91qe1kseo1_1280.jpg",
+      "idUsu": "3",
+      "puntos": 3,
+      "id": 13
+    },
+    {
+      "url": "http://24.media.tumblr.com/tumblr_m4iekmtAE91qd477zo1_1280.jpg",
+      "idUsu": "2",
+      "puntos": 5,
+      "id": 14
+    },
+    {
+      "url": "http://28.media.tumblr.com/ZabOTt2mpdp9ll0bPYiyByDY_250.jpg",
+      "idUsu": "2",
+      "puntos": 1,
+      "id": 15
+    },
+    {
+      "url": "http://25.media.tumblr.com/tumblr_m2lzsjdSf41qze6dko1_1280.jpg",
+      "idUsu": "3",
+      "puntos": 8,
+      "id": 16
+    },
+    {
+      "url": "http://24.media.tumblr.com/tumblr_m78fftMia01qddbvio1_1280.jpg",
+      "idUsu": "2",
+      "puntos": 5,
+      "id": 17
+    },
+    {
+      "url": "http://25.media.tumblr.com/tumblr_lyy9s1STx91qe1kseo1_1280.jpg",
+      "idUsu": "5",
+      "puntos": 10,
+      "id": 18
+    }
+  ]
+}
