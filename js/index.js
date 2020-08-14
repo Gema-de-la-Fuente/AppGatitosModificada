@@ -1,7 +1,7 @@
 "use strict";
 
 var categorias = ['hats', 'space', 'funny', 'sunglasses', 'boxes', 'caturday', 'ties', 'dream', 'sinks', 'clothes'];
-var urlCats = 'http://thecatapi.com/api/images/get?format=xml&results_per_page=20';
+var urlCats = 'http://api.thecatapi.com/api/images/get?format=xml&results_per_page=20';
 var urlFavs = 'http://localhost:3000/favoritos';
 var urlLikes = 'http://localhost:3000/likes';
 var urlVotos = 'http://localhost:3000/votos';
